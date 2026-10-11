@@ -2,60 +2,68 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Goodluck Chinemerem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1630,100:0877D1&height=180&section=header&text=GOODLUCK%20CHINEMEREM&fontSize=30&fontColor=EAF4FF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20ANALYST%20PATH&descSize=14&descAlignY=60&descColor=78B7FF" width="100%" alt="Dark navy and blue cybersecurity profile banner" />
 
-### Cybersecurity Student | Aspiring SOC Analyst | Blue Team Learner
+### Cybersecurity Student · Aspiring SOC Analyst · Blue Team Learner
 
-Building practical skills in security monitoring, alert investigation, and threat detection through hands-on labs.
+Practising security monitoring, alert investigation, and threat detection through hands-on labs.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DeluckyOG-181717?style=for-the-badge&logo=github)](https://github.com/DeluckyOG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/okechukwu-goodluck-chinemerem-035171318/)
+[![GitHub](https://img.shields.io/badge/GitHub-DeluckyOG-080B12?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeluckyOG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/okechukwu-goodluck-chinemerem-035171318/)
+[![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM-101827?style=for-the-badge&labelColor=05070D)](https://github.com/DeluckyOG)
 
 </div>
 
 ---
 
-## 🧭 About Me
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-0B1630?style=flat-square" alt="01 About me" />
 
 - 🎓 Cybersecurity student at **Nnamdi Azikiwe University**
 - 🛡️ Focused on **SOC operations, security monitoring, and blue-team fundamentals**
 - 🔎 Practising log analysis and alert investigation in a personal **Wazuh SIEM home lab**
 - 🐧 Exploring security telemetry from Linux and Windows systems
-- 📚 Continuously learning through hands-on labs, including TryHackMe
-- 🤝 Open to learning opportunities, collaboration, and entry-level cybersecurity opportunities
+- 📚 Learning through hands-on labs and TryHackMe pathways
+- 🤝 Interested in entry-level cybersecurity opportunities and collaborative learning
 
-## 🧰 Skills & Tools
+## <img src="https://img.shields.io/badge/02-SKILLS%20%26%20TOOLS-0B1630?style=flat-square" alt="02 Skills and tools" />
 
-**Security monitoring:** Wazuh SIEM, alert triage, log analysis  
-**Network analysis:** Wireshark, NetworkMiner, TCP/IP, DNS, HTTP  
-**Blue-team practice:** Phishing analysis, authentication-failure investigation, Windows and Linux monitoring  
-**Learning platforms:** TryHackMe
+| Area | Tools and topics |
+|---|---|
+| SIEM & monitoring | Wazuh, alert review, log analysis |
+| Network analysis | Wireshark, NetworkMiner, TCP/IP, DNS, HTTP |
+| Blue-team practice | Phishing analysis, authentication-failure investigation |
+| Endpoint telemetry | Linux and Windows security monitoring |
+| Learning | TryHackMe, Cisco cybersecurity learning |
 
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-3A7D44?style=flat-square" alt="Wazuh SIEM" />
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Linux-Monitoring-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-Security%20Logs-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/TryHackMe-Hands--on%20Learning-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</p>
+<div align="center">
 
-## 🚀 Featured Projects
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-101827?style=flat-square&logo=securityscorecard&logoColor=69A7FF)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-101827?style=flat-square&logo=wireshark&logoColor=69A7FF)
+![Linux](https://img.shields.io/badge/Linux-Monitoring-101827?style=flat-square&logo=linux&logoColor=69A7FF)
+![Windows](https://img.shields.io/badge/Windows-Security%20Logs-101827?style=flat-square&logo=windows&logoColor=69A7FF)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Practical%20Learning-101827?style=flat-square&logo=tryhackme&logoColor=69A7FF)
 
-### 1. Wazuh SOC Home Lab
-A personal SIEM environment built with Wazuh Manager, Indexer, and Dashboard, connected to Windows and Linux agents. Used to practise security-event monitoring and investigation.
+</div>
 
-**Focus areas:** SIEM setup, endpoint telemetry, log review, and SOC-style investigations.
+## <img src="https://img.shields.io/badge/03-FEATURED%20PROJECTS-0B1630?style=flat-square" alt="03 Featured projects" />
 
-[**View Wazuh SOC Home Lab →**](https://github.com/DeluckyOG/wazuh-soc-home-lab)
+### 🛡️ Wazuh SOC Home Lab
 
-### 2. SSH Password-Guessing Simulation & Wazuh Monitoring
-A controlled lab exercise using Hydra to generate SSH authentication-failure events and Wazuh to review the resulting alerts. The test used a dummy password list and did not demonstrate a successful login.
+A personal SIEM environment with Wazuh Manager, Indexer, and Dashboard connected to Windows and Linux agents. Used to practise security-event monitoring and SOC-style investigations.
 
-**Focus areas:** SSH logs, authentication failures, Wazuh Rule 5710, and alert investigation.
+**Focus:** SIEM setup · Endpoint telemetry · Log review · Investigation
 
-[**View SSH Detection Project →**](https://github.com/DeluckyOG/SSH-BRUTEFORCE-DETECTION-WAZUH)
+[![Open project](https://img.shields.io/badge/VIEW%20PROJECT-Wazuh%20SOC%20Home%20Lab-0B1630?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeluckyOG/wazuh-soc-home-lab)
 
-## 📜 Courses & Certifications
+### 🔐 SSH Password-Guessing Simulation & Wazuh Monitoring
+
+A controlled lab exercise using Hydra to generate SSH authentication-failure events and Wazuh to review the resulting alerts. A dummy password list was used; the test did **not** demonstrate a successful login.
+
+**Focus:** SSH logs · Authentication failures · Wazuh Rule 5710 · Alert investigation
+
+[![Open project](https://img.shields.io/badge/VIEW%20PROJECT-SSH%20Detection%20with%20Wazuh-0B1630?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeluckyOG/SSH-BRUTEFORCE-DETECTION-WAZUH)
+
+## <img src="https://img.shields.io/badge/04-COURSES%20%26%20CERTIFICATIONS-0B1630?style=flat-square" alt="04 Courses and certifications" />
 
 - TryHackMe — Cyber Security 101
 - TryHackMe — Pre Security
@@ -63,15 +71,16 @@ A controlled lab exercise using Hydra to generate SSH authentication-failure eve
 - Cisco — Networking Basics
 - Cisco — Introduction to Cybersecurity
 
-## 🎯 Current Goal
+## <img src="https://img.shields.io/badge/05-CURRENT%20GOAL-0B1630?style=flat-square" alt="05 Current goal" />
 
-To keep building realistic, well-documented blue-team projects and develop the practical skills needed for a **Junior SOC Analyst** opportunity.
-
----
+Build realistic, well-documented blue-team projects and develop the practical skills needed for a **Junior SOC Analyst** opportunity.
 
 <div align="center">
 
-**Thanks for visiting my profile!**  
+---
+
 *Learn continuously. Investigate carefully. Improve every day.*
+
+![Profile style](https://img.shields.io/badge/DESIGN-MATTE%20BLACK%20%2B%20ELECTRIC%20BLUE-05070D?style=flat-square&labelColor=0877D1)
 
 </div>
